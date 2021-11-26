@@ -1,0 +1,28 @@
+'''
+# Module: Découverte programmation
+# DUT R&T
+
+# Ecrire un programme qui :
+    
+# 1) Ouvre les deux fichiers this_file.txt et kw_file.txt et 
+#    compte le nombre de mots-clés de python qui se trouvent dans 
+#    le "zen de python". Affichez le total par mot et le total general. 
+#    les caractères non alphabétiques ne comptent pas.
+
+# 2) Afficher dans un tableau les nombres d'apparition, moyenne,  
+#    min, max de chaque mot. 
+#    En option Vous pourrez ajouter les autre valeurs courantes
+#    utilisées en statistiques descriptives : écart-type, mode, Q1, mediane, Q3
+
+# 3) Afficher les mots triés par fréquence d'apparition décroissante (mot,frequence)
+
+# 4) Tracer graphiquement la fréquence d'apparition des mots 
+#    par ordre lexicographique en abscisse.
+
+# 5) Sélectioner dans le this_file.txt les mots qui contiennent entre [n et m[ lettres.
+#    n et m sont saisis au clavier.
+#    écrire ces mots dans un fichier. 
+#    Répéter jusqu'à l'entrée du caractère 'q'. 
+#    Ne pas écrire ce dernier caractère dans le fichier. 
+
+'''
